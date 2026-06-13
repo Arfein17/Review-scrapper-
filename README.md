@@ -10,7 +10,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/myntra-review-scraper.git
+   git clone https://github.com/Arfein17/Review-scrapper-.git
    cd myntra-review-scraper
    ```
 
